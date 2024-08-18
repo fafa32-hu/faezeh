@@ -1,0 +1,2 @@
+This is the upload test - pushing a text file on to a github repository.
+For git bash upload practise
