@@ -7,3 +7,4 @@
  }
  ("It is in JavaScript1")
  ("It is in JavaScript2")
+ ("It is in JavaScript2")
