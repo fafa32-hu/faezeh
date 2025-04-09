@@ -5,4 +5,5 @@
     document.getElementById("Irish").innerHTML =
     result;
  }
- ("It has in JavaScript")
+ ("It is in JavaScript1")
+ ("It is in JavaScript2")
